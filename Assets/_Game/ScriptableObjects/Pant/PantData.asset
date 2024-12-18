@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f54244185a012394699c2f6b121df6c8, type: 3}
+  m_Name: PantData
+  m_EditorClassIdentifier: 
+  pantTypes:
+  - {fileID: 11400000, guid: aa15a09e3580f814bb8c0e7d8d203f78, type: 2}
+  - {fileID: 11400000, guid: b3d531a62994c474e96dde0fa45574e1, type: 2}
+  - {fileID: 11400000, guid: 830900d074e2725409255c1e71a6d460, type: 2}
+  - {fileID: 11400000, guid: a3242a6e21446b34aaed1f9950e745a8, type: 2}
+  - {fileID: 11400000, guid: 3746213e3d881ed4fb4a8652bf570314, type: 2}
+  - {fileID: 11400000, guid: e4d25f78b8b6cd04bbf9cabedf85c4b5, type: 2}
